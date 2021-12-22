@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable_couponicon3.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable\\couponicon3.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\layout_income_recycler_data.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\income_recycler_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable_couponicon1.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable\\couponicon1.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_income.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-hdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\layout_coupons_fragment.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\coupons_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\layout_expense_recycler_data.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\expense_recycler_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_layout_inserting_data.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\custom_layout_inserting_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable_couponicon7.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable\\couponicon7.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_background_input.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-mdpi\\background_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_moneybag.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-hdpi\\moneybag.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_income.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_open.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\anim\\fade_open.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_expense.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_expense.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\expense.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_background1.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-mdpi\\background1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_income.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-xhdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\layout_saving_goals_fragment.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\saving_goals_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_income.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_background3.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-mdpi\\background3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_background_button_sign_in.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-mdpi\\background_button_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_income.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\income.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_income.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-xxhdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_section_launchpad.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\fragment_section_launchpad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_expense.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\expense.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_income.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\fragment_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_income.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-mdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_expense.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-mdpi\\expense.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_gradient_list.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-mdpi\\gradient_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable_couponicon6.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable\\couponicon6.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_expense.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-hdpi\\expense.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\layout_billing_cycles_fragment.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\billing_cycles_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_background2.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-mdpi\\background2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_expense.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-xxhdpi\\expense.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_close.xml.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\anim\\fade_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_expense.png.flat",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\drawable-xhdpi\\expense.png"
+    }
+]

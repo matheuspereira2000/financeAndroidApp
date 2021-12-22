@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/gradient_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Coupons">
+
+    <TextView
+        android:id="@+id/coupons_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Coupon Resources"
+        android:textAlignment="center"
+        android:textSize="@dimen/_30sdp"
+        android:typeface="serif"
+        app:layout_constraintBottom_toTopOf="@id/imageView1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.674" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="127dp"
+        android:layout_height="161dp"
+        android:src="@drawable/couponicon1"
+        app:layout_constraintBottom_toTopOf="@id/imageView3"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/imageView2"
+        app:layout_constraintTop_toTopOf="parent"
+        android:tag="http://coupons.com"
+        android:onClick="openBrowser"/>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="144dp"
+        android:layout_height="144dp"
+        android:src="@drawable/couponicon3"
+        app:layout_constraintBottom_toTopOf="@id/imageView4"
+        app:layout_constraintLeft_toRightOf="@id/imageView1"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:tag="https://thekrazycouponlady.com"
+        android:onClick="openBrowser"/>
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="132dp"
+        android:layout_height="167dp"
+        android:src="@drawable/couponicon6"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toLeftOf="@id/imageView4"
+        app:layout_constraintTop_toBottomOf="@id/imageView1"
+        android:tag="https://www.retailmenot.com"
+        android:onClick="openBrowser"/>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="128dp"
+        android:layout_height="146dp"
+        android:src="@drawable/couponicon7"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/imageView3"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imageView2"
+        android:tag="https://www.groupon.com"
+        android:onClick="openBrowser"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SavingGoals">
+
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/PieChart"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        app:layout_constraintBottom_toTopOf="@id/SavingsGoalAmount"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/SavingsGoalAmount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/PieChart"
+        app:layout_constraintBottom_toTopOf="@id/SavingsAmountInBank"
+        android:hint="This Year's Goal: $...  "
+        />
+
+    <EditText
+        android:id="@+id/SavingsAmountInBank"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/SavingsGoalAmount"
+        app:layout_constraintBottom_toTopOf="@id/SavingsMonthlyContribution"
+        android:hint="Amount Already Saved: $...  "
+        />
+
+    <EditText
+        android:id="@+id/SavingsMonthlyContribution"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/SavingsAmountInBank"
+        android:hint="Monthly Contribution: $...  "
+        />
+
+    <TextView
+        android:id="@+id/savingsTextView"
+        android:layout_width="343dp"
+        android:layout_height="29dp"
+        android:textSize="@dimen/_18sdp"
+        app:layout_constraintRight_toLeftOf="@+id/savings_button"
+        app:layout_constraintTop_toBottomOf="@id/SavingsMonthlyContribution" />
+
+
+    <Button
+        android:id="@+id/savings_button"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="OK"
+        app:layout_constraintTop_toBottomOf="@id/SavingsMonthlyContribution"
+        app:layout_constraintRight_toRightOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

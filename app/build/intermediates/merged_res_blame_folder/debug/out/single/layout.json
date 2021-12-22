@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\expense_recycler_data.xml",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\expense_recycler_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_layout_inserting_data.xml",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\custom_layout_inserting_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\coupons_fragment.xml",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\coupons_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_income.xml",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\fragment_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\saving_goals_fragment.xml",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\saving_goals_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\billing_cycles_fragment.xml",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\billing_cycles_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_section_launchpad.xml",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\fragment_section_launchpad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\income_recycler_data.xml",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\income_recycler_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    }
+]
