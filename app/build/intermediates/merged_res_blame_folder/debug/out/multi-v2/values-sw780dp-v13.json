@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\finance\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw780dp-v13\\values-sw780dp-v13.xml",
+            "outputFile": "C:\\Users\\Matheus Pereira\\AndroidStudioProjects\\financeGit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw780dp-v13\\values-sw780dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Matheus Pereira\\.gradle\\caches\\transforms-3\\646ea86b34decaa6e64d1da88bae3273\\transformed\\jetified-ssp-android-1.0.6\\res\\values-sw780dp-v13\\values-sw780dp-v13.xml",

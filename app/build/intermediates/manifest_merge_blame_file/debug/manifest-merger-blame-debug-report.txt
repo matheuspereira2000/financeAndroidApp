@@ -21,9 +21,9 @@
 21
 22    <uses-sdk
 23        android:minSdkVersion="19"
-23-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml
+23-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml
 24        android:targetSdkVersion="31" />
-24-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml
+24-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml
 25
 26    <uses-permission android:name="android.permission.INTERNET" />
 26-->[com.firebaseui:firebase-ui-database:8.0.0] C:\Users\Matheus Pereira\.gradle\caches\transforms-3\42cf3eecd5839ba526125fb712b762a3\transformed\jetified-firebase-ui-database-8.0.0\AndroidManifest.xml:9:5-67
@@ -42,59 +42,59 @@
 30-->[com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Matheus Pereira\.gradle\caches\transforms-3\6ee7beadb6a5362ed4f1247f69bae262\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:22-76
 31
 32    <application
-32-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:22:5-51:19
+32-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:22:5-51:19
 33        android:name="androidx.multidex.MultiDexApplication"
 34        android:allowBackup="true"
-34-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:23:9-35
+34-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:23:9-35
 35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 35-->[androidx.core:core:1.7.0] C:\Users\Matheus Pereira\.gradle\caches\transforms-3\919b1e91a07ddbf34272a620f8cba519\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 36        android:debuggable="true"
 37        android:icon="@drawable/moneybag"
-37-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:25:9-42
+37-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:25:9-42
 38        android:label="@string/app_name"
-38-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:24:9-41
+38-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:24:9-41
 39        android:testOnly="true"
 40        android:theme="@style/MainTheme" >
-40-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:26:9-41
+40-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:26:9-41
 41        <activity
-41-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:27:9-31:49
+41-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:27:9-31:49
 42            android:name="com.example.android.effectivenavigation.SignUpActivity"
-42-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:28:13-42
+42-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:28:13-42
 43            android:exported="true"
-43-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:29:13-36
+43-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:29:13-36
 44            android:theme="@style/SignInTheme"
-44-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:31:13-47
+44-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:31:13-47
 45            android:windowSoftInputMode="adjustResize" />
-45-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:30:13-55
+45-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:30:13-55
 46        <activity
-46-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:33:9-43:20
+46-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:33:9-43:20
 47            android:name="com.example.android.effectivenavigation.SignInActivity"
-47-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:34:13-42
+47-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:34:13-42
 48            android:exported="true"
-48-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:35:13-36
+48-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:35:13-36
 49            android:theme="@style/SignInTheme"
-49-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:37:13-47
+49-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:37:13-47
 50            android:windowSoftInputMode="adjustResize" >
-50-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:36:13-55
+50-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:36:13-55
 51            <intent-filter>
-51-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:38:13-42:29
+51-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:38:13-42:29
 52                <action android:name="android.intent.action.MAIN" />
-52-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:39:17-69
-52-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:39:25-66
+52-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:39:17-69
+52-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:39:25-66
 53
 54                <category android:name="android.intent.category.LAUNCHER" />
-54-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:41:17-77
-54-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:41:27-74
+54-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:41:17-77
+54-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:41:27-74
 55            </intent-filter>
 56        </activity>
 57        <activity
-57-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:45:9-49:20
+57-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:45:9-49:20
 58            android:name="com.example.android.effectivenavigation.MainActivity"
-58-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:46:13-41
+58-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:46:13-41
 59            android:exported="true"
-59-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:48:13-36
+59-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:48:13-36
 60            android:label="@string/app_name" >
-60-->C:\Users\Matheus Pereira\AndroidStudioProjects\finance\app\src\main\AndroidManifest.xml:47:13-45
+60-->C:\Users\Matheus Pereira\AndroidStudioProjects\financeGit\app\src\main\AndroidManifest.xml:47:13-45
 61        </activity>
 62        <activity
 62-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Matheus Pereira\.gradle\caches\transforms-3\bc92e791c177c44f8433e6c0958e860f\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
